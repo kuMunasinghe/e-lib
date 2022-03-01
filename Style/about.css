@@ -1,0 +1,29 @@
+
+p{
+	color: white;
+	padding: 10px;
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color:black;
+    line-height: 150%;
+    justify-content: 10%
+}
+
+
+h1{
+	padding: 60px;
+  text-align: center;
+  
+  color: white;
+  font-size: 30px;
+
+}
+
+h4{
+  padding: 30px;
+  text-align: center;
+  
+  color: white;
+  font-size: 15px;
+
+}
